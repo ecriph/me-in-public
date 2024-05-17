@@ -1,4 +1,4 @@
-### UI Libraries for both Native and Web
+# UI Libraries for both Native and Web
 
 ## Tamagui
 
@@ -8,6 +8,6 @@
 
 - https://tailwindcss.com/ (web)
 
-## TailWind Component Library - React Daisy UI
+## Tailwind Component Library - React Daisy UI
 
 - https://react.daisyui.com/ (web)
